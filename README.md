@@ -1,1 +1,1 @@
-# image-overlay
+Simple Image Overlay Snippet
